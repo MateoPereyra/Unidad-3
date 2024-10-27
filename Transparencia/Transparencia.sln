@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Transparencia", "Transparencia.vcxproj", "{AF89C6BC-86B4-4BCF-B521-9EF8F230A2F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF89C6BC-86B4-4BCF-B521-9EF8F230A2F0}.Debug|x64.ActiveCfg = Debug|x64
+		{AF89C6BC-86B4-4BCF-B521-9EF8F230A2F0}.Debug|x64.Build.0 = Debug|x64
+		{AF89C6BC-86B4-4BCF-B521-9EF8F230A2F0}.Debug|x86.ActiveCfg = Debug|Win32
+		{AF89C6BC-86B4-4BCF-B521-9EF8F230A2F0}.Debug|x86.Build.0 = Debug|Win32
+		{AF89C6BC-86B4-4BCF-B521-9EF8F230A2F0}.Release|x64.ActiveCfg = Release|x64
+		{AF89C6BC-86B4-4BCF-B521-9EF8F230A2F0}.Release|x64.Build.0 = Release|x64
+		{AF89C6BC-86B4-4BCF-B521-9EF8F230A2F0}.Release|x86.ActiveCfg = Release|Win32
+		{AF89C6BC-86B4-4BCF-B521-9EF8F230A2F0}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6F548D4-5712-4C29-8F52-258DE0983D71}
+	EndGlobalSection
+EndGlobal
